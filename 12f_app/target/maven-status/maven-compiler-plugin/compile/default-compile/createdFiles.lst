@@ -1,0 +1,3 @@
+com\github\kuresson\app\StockItemRepository.class
+com\github\kuresson\app\domain\model\ItemType.class
+com\github\kuresson\app\domain\model\StockItem.class
