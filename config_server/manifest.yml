@@ -3,4 +3,4 @@ applications:
   path: target/config_server-1.0-SNAPSHOT.jar
   memory: 1G
   env:
-    spring.cloud.config.server.git.uri: https://github.com/kuresson/config-repository/tree/master/config_server
+    spring.cloud.config.server.git.uri: https://github.com/kuresson/cloud-native-workshop
