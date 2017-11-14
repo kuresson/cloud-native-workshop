@@ -50,8 +50,8 @@
       <file leaf-file-name="manifest.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/manifest.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+            <state relative-caret-position="125">
+              <caret line="5" column="111" lean-forward="false" selection-start-line="5" selection-start-column="111" selection-end-line="5" selection-end-column="111" />
               <folding />
             </state>
           </provider>
@@ -542,12 +542,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510647486270</updated>
-      <workItem from="1510647494931" duration="1077000" />
+      <workItem from="1510647494931" duration="1314000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1077000" />
+    <option name="totallyTimeSpent" value="1314000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -628,8 +628,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/manifest.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        <state relative-caret-position="125">
+          <caret line="5" column="111" lean-forward="false" selection-start-line="5" selection-start-column="111" selection-end-line="5" selection-end-column="111" />
           <folding />
         </state>
       </provider>
